@@ -1108,7 +1108,7 @@ int main()
               << "========================================\n"
               << "Type 'help' for available commands, 'exit' to quit\n"
               << "Ctrl+C: Interrupts running command, or the shell when nothing is running\n"
-              << "Copyright © 2026 David S \n"
+              << "Copyright (c) 2026 David S \n"
               << "License: polyform noncommercial 1.0.0\n"
               << "https://github.com/PenguineDavid/winux2.0?tab=License-1-ov-file\n"
               << "https://polyformproject.org/licenses/noncommercial/1.0.0/\n"
@@ -1177,4 +1177,5 @@ int main()
 
     std::cout << "\nGoodbye!\n";
     return 0;
+
 }
