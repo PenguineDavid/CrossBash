@@ -1,4 +1,4 @@
-# winux v2.0
+# CrossBash, winux v2.0
 *A Linux-style command shell for Windows*
 
 winux is a Windows-native command shell written in C++ that provides a Linux-like command syntax, job control, pipes, redirection, and built-in commands, while still executing commands through the Windows command processor.
