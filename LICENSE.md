@@ -19,7 +19,7 @@ Any use, modification, or distribution of the Software must include appropriate
 credit to the original author:
 
 David S  
-https://github.com/PenguineDavid/winux2.0
+https://github.com/PenguineDavid/CrossBash
 
 ## Distribution of Modifications
 
