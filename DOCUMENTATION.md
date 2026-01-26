@@ -1,7 +1,7 @@
-# Lindows v2.0
+# winux v2.0
 *A Linux-style command shell for Windows*
 
-Lindows is a Windows-native command shell written in C++ that provides a Linux-like command syntax, job control, pipes, redirection, and built-in commands, while still executing commands through the Windows command processor.
+winux is a Windows-native command shell written in C++ that provides a Linux-like command syntax, job control, pipes, redirection, and built-in commands, while still executing commands through the Windows command processor.
 
 This project is designed as a learning-friendly but powerful shell environment, with explicit handling of Windows process management and console behavior.
 
@@ -38,11 +38,11 @@ This project is designed as a learning-friendly but powerful shell environment, 
 
 ### Example (MinGW)
 ```CMD
-g++ main.cpp -std=c++17 -o lindows
+g++ winux2.0.cpp -std=c++17 -o winux
 ```
 ---
 
 **that Should work but if it dosnt**
 ```CMD
-g++ -std=c++17 -o lindows2.exe lindows.cpp -static -lstdc++fs -static-libgcc -static-libstdc++
+g++ -std=c++17 -o winux2.0.exe winux2.0.cpp -static -lstdc++fs -static-libgcc -static-libstdc++
 ```
