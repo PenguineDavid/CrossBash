@@ -1,8 +1,8 @@
 /*
- * Lindows v2.2 - Windows Command Shell
+ * CrossBash, winux v2.0 - Windows Command Shell
  * Copyright © 2026 David S
  * License: polyform noncommercial 1.0.0
- * https://github.com/PenguineDavid/winux2.0?tab=License-1-ov-file
+ * https://github.com/PenguineDavid/CrossBash?tab=License-1-ov-file
  * https://polyformproject.org/licenses/noncommercial/1.0.0/
  * A full-featured shell environment for Windows with Linux-like syntax
  * WARNING: This tool executes commands with user privileges. Use responsibly.
@@ -568,7 +568,7 @@ namespace Builtins
 
     void showHelp()
     {
-        std::cout << "Lindows v2.2 - Windows Shell Environment\n"
+        std::cout << "CrossBash, winux v2.0 - Windows Shell Environment\n"
                   << "========================================\n"
                   << "Basic Commands:\n"
                   << "  cd [dir]       Change directory\n"
@@ -1110,7 +1110,7 @@ int main()
               << "Ctrl+C: Interrupts running command, or the shell when nothing is running\n"
               << "Copyright (c) 2026 David S \n"
               << "License: polyform noncommercial 1.0.0\n"
-              << "https://github.com/PenguineDavid/winux2.0?tab=License-1-ov-file\n"
+              << "https://github.com/PenguineDavid/CrossBash?tab=License-1-ov-file\n"
               << "https://polyformproject.org/licenses/noncommercial/1.0.0/\n"
               << "\n========================================\n\n";
 
@@ -1179,3 +1179,4 @@ int main()
     return 0;
 
 }
+
