@@ -1104,7 +1104,7 @@ public:
 // ----------------------
 int main()
 {
-    std::cout << "Lindows v2.2 - Windows Shell Environment\n"
+    std::cout << "Crossbash, winux v2.0 - Windows Shell Environment\n"
               << "========================================\n"
               << "Type 'help' for available commands, 'exit' to quit\n"
               << "Ctrl+C: Interrupts running command, or the shell when nothing is running\n"
@@ -1179,4 +1179,5 @@ int main()
     return 0;
 
 }
+
 
